@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("Testing\n");
 	printf("done\n");
+	printf("But still confusion\n");
 	return 0;
 }
